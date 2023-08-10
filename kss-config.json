@@ -1,0 +1,8 @@
+{
+  "title": "Title of the Style Guide",
+  "source": "abc/",
+
+  "destination": "styleguide/",
+  "css": ["../abc/test.css"],
+  "js": ["../js/study.js"]
+}
